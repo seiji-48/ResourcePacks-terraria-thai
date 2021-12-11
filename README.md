@@ -14,7 +14,3 @@
  [en-US.NPCs](BabeElena/Content/Localization/en-US.NPCs.json) | ❓ | ❓
  [en-US.Projectiles](BabeElena/Content/Localization/en-US.Projectiles.json) | ❓ | ❓
  [en-US.Town](BabeElena/Content/Localization/en-US.Town.json) | ❓ | ❓
- ## AshiraEX
- ชื่อไฟล์                           | สถานะการแปล                                                 | บรรทัด  
---------------------------------- | :------------------------------------------------------------- | :-------------------------------------------------------------
- [en-US](AshiraEX/Content/Localization/en-US.csv) | ❓ | ❓ 

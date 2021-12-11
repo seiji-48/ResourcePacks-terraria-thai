@@ -5,7 +5,7 @@
 ## มอดที่แปล
  ชื่อไฟล์                           | สถานะการแปล                                                 | บรรทัด  
 --------------------------------- | :------------------------------------------------------------- | :-------------------------------------------------------------
-                                                    | BabeElena |
+  | [BabeElena] |
  [en-US.Game](BabeElena/Content/Localization/en-US.Game.json) | ❓ | ❓
  [en-US.Items - ชื่อไทย](BabeElena/Content/Localization/en-US.Items%20-%20ชื่อไทย.json) | ❓ | ❓
  [en-US.Items](BabeElena/Content/Localization/en-US.Items.json) | ❓ | ❓

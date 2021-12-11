@@ -2,10 +2,9 @@
 รวมResource Packs ของ AshiraEX และ BabeElena
 (❌ = ยังไม่ได้แปล, ✔ = แปลเสร็จแล้ว, ❓ = ยังไม่ได้ตรวจ)
 
-## มอดที่แปล
+## BabeElena
  ชื่อไฟล์                           | สถานะการแปล                                                 | บรรทัด  
 --------------------------------- | :------------------------------------------------------------- | :-------------------------------------------------------------
-  | [BabeElena] |
  [en-US.Game](BabeElena/Content/Localization/en-US.Game.json) | ❓ | ❓
  [en-US.Items - ชื่อไทย](BabeElena/Content/Localization/en-US.Items%20-%20ชื่อไทย.json) | ❓ | ❓
  [en-US.Items](BabeElena/Content/Localization/en-US.Items.json) | ❓ | ❓
@@ -15,3 +14,7 @@
  [en-US.NPCs](BabeElena/Content/Localization/en-US.NPCs.json) | ❓ | ❓
  [en-US.Projectiles](BabeElena/Content/Localization/en-US.Projectiles.json) | ❓ | ❓
  [en-US.Town](BabeElena/Content/Localization/en-US.Town.json) | ❓ | ❓
+ ## AshiraEX
+ ชื่อไฟล์                           | สถานะการแปล                                                 | บรรทัด  
+--------------------------------- | :------------------------------------------------------------- | :-------------------------------------------------------------
+ [en-US](AshiraEX/Content/Localization/en-US.csv) | ❓ | ❓ 

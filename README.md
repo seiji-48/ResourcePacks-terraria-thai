@@ -1,5 +1,5 @@
 # ResourcePacks-terraria-thai
-รวมResource Packs โดย AshiraEX และ BabeElena
+รวมResource Packs ของ AshiraEX และ BabeElena
 (❌ = ยังไม่ได้แปล, ✔ = แปลเสร็จแล้ว, ❓ = ยังไม่ได้ตรวจ)
 
 ## มอดที่แปล

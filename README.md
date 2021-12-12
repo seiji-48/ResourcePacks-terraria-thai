@@ -13,4 +13,4 @@
  [en-US.NPCs - ชื่อไทย](BabeElena/Content/Localization/en-US.NPCs%20-%20ชื่อไทย.json) | ✔ | 100%11
  [en-US.NPCs](BabeElena/Content/Localization/en-US.NPCs.json) | ✔ | ชื่ออังกฤษ
  [en-US.Projectiles](BabeElena/Content/Localization/en-US.Projectiles.json) | ✔ | ชื่อของ
- [en-US.Town](BabeElena/Content/Localization/en-US.Town.json) | ❌ | กำลังนำเข้าจาก ไฟล์ en-US.csv
+ [en-US.Town](BabeElena/Content/Localization/en-US.Town.json) | ✔ | 100%
